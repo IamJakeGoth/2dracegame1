@@ -1,0 +1,4535 @@
+fileFormatVersion: 2
+guid: a30392a784a434e0ba3dd9aad0551bf0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: asphalt_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 631
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a76704aab8b894aa7b7ff9de5fb222
+      internalID: -1889699704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 631
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353193f674eb31446819a2072679c209
+      internalID: -1596693156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 631
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec409522e06ddb4d9d26e01a72c7274
+      internalID: -1702392415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 631
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb2796a322cc174781824cdf8a01fb5
+      internalID: -137501869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 631
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3076e7b863041c84aa06811c943084b9
+      internalID: -1840263998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 631
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347155ad88e0350499299e06da33f631
+      internalID: 776016351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 631
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759a42bc35f9354459e3853cbd5ccb9c
+      internalID: -1724013262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 631
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89d9727fd22b314c8792af1fa4e9c88
+      internalID: 139969487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 631
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a68f5f7a99189d488747ff8b6671615
+      internalID: 1510318112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 631
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297fa113f01517143a4b56bbba7c1a84
+      internalID: 1069492401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 631
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e291ca62250730f4480338027b4a57be
+      internalID: 857058887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 631
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612ada94a72533d43a5faa423e1f63cc
+      internalID: 691576360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 631
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2e093ceab066e4ab3816f69f3e1135
+      internalID: -1898972988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_13
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 631
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cea5eb3a49c80c46a1f4cb025dd515b
+      internalID: -2112773519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_14
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 631
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e3a5832e6270d4a961cbde527dcb0f
+      internalID: 628265113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_15
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 631
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9bee7d3fce219240a0c840dc0dc4b7a
+      internalID: -1375441604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_16
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 631
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ce2377eb50a4945bdbb348f9694ba1
+      internalID: 1978785089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_17
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 631
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2520e2d65d2ffdd41b95e3adc8571d1a
+      internalID: 1247217238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_18
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 631
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d6d0daa9bea8b4ca21113dd4817b4a
+      internalID: -1020087759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_19
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 631
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5946fa85c51249649b144328ec16910d
+      internalID: -1481766050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 567
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd682faba674f64c80f25734aea4e72
+      internalID: 1733089604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 567
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f187cbf7df88843b7edd2d6abc4e0f
+      internalID: 535715480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 567
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3837d18084c9e642be00c03f3a982f4
+      internalID: -1423613975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_23
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 567
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5d1651017661d4b937e52a7be12066
+      internalID: -1472942657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 567
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731748f60b012a1468b4fb12d2b3e804
+      internalID: -1410311736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_25
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 567
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e801c3b5ea7f33340963743f3262ba96
+      internalID: 862415915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_26
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 567
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935c0a757bfb9784cac29e2e72ef9952
+      internalID: -1810849175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_27
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 567
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aeb989059586a144b78a7331c23b569
+      internalID: -503616088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_28
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 567
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c95eaeed27c5d498310ed4fbdb084b
+      internalID: 1761664540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_29
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 567
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21c80dbd9856b440bd503fa73edc6b2
+      internalID: 1306713550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_30
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 567
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1c18de6f1a96c4eab0a4d73add1803
+      internalID: 736326084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_31
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 567
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6269123ac78fff41999429c21b50cd1
+      internalID: -1843624084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_32
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 567
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75392fbe23676604794c96226ea6d891
+      internalID: -374730740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_33
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 567
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b91acda360e5bd42907b64bec0d0bcf
+      internalID: -1547570975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_34
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 567
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adea0d0d6680e404ebb94b6d380d12bb
+      internalID: -1269538031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_35
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 567
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f32bdd9184bfa841bab0496d0774e95
+      internalID: -1453184640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_36
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 567
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e746501c70236ef468b130371d60aa4a
+      internalID: -398446914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_37
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 567
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dfb5c786e3a67747848541504304267
+      internalID: -1777887844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_38
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 567
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79792d1291bfe274aa351f9812b9f2a1
+      internalID: -1535624575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_39
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 567
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64309875936053c4a8db63921ae810a7
+      internalID: -2138747028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 503
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9abc7181e81f3d42b5a03ad348fdba2
+      internalID: -1324214756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 503
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b445ed237378340a5a449aad7e5fa5
+      internalID: -1716501276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_42
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 503
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13eeab058efcf3d4792dc3f1c8402b54
+      internalID: 1699404226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_43
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 503
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845191195bc28a443ab761e6c0d74fa5
+      internalID: -1397850210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 503
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5fa4b44960e314cb5864fb88d03561
+      internalID: -1459952805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_45
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 503
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4f52bc346b25643a2f82f3a5a1d829
+      internalID: 1365467675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_46
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 503
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02381ecc119d4c845b16fa3ac78ec1d4
+      internalID: -1758825388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_47
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 503
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3d54dc31f89cb48944fb7cb13dae23
+      internalID: 893978009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_48
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 503
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb24243f299ce54f9510e3e8406713e
+      internalID: -87741526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_49
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 503
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1105e2cd7a74444a8ed5d9d8a7b6f9
+      internalID: -1845226981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_50
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 503
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad536eec5566a049bef79565aa3d18b
+      internalID: 298268305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_51
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 503
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b675ef7c4de15489e191aee8bf42d2
+      internalID: 1536842035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_52
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 503
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c9b8be4e5a61741b5c64b100f9cd4b
+      internalID: 642398734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_53
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 503
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1154be2070a2d40bbaa18d2169ecea
+      internalID: -1866788600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_54
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 503
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a12337b79358c4aaa2eca994553972
+      internalID: 546348316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_55
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 503
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae5b6f39a06cc754198e234407db6a6c
+      internalID: 836374389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_56
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 503
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397ea8de98d30524390abea11276b073
+      internalID: 379550416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_57
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 503
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79095e373cca306479feb2cb3b8c11f2
+      internalID: 408927712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_58
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 503
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e24e4d9cdd63684c8d97bc080e0d268
+      internalID: 2033303560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_59
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 503
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce09f4d06fca123468e5105a0f5afe2c
+      internalID: 726742468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 439
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d9f62e2e31b5847be920b116b1e7e7
+      internalID: 1573838594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_61
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 439
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7522e3f5ed098d40ba6eb11dc67bfb8
+      internalID: 1204040055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_62
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 439
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a8e36b3203e2844872709977ee1d26
+      internalID: 1282812647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_63
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 439
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8cdf32a6d28fa04c99fd73735ed1f78
+      internalID: -122901382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_64
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 439
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40495bc8bb0e15a4d95de1185ca0d27f
+      internalID: 1595701507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_65
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 439
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff14110df5968c049b67fbd551066317
+      internalID: 1188854100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_66
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 439
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe549e90111e35a40999e27cd801f5a6
+      internalID: 1353791839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_67
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 439
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc56332333a2274499ab3091da807421
+      internalID: 302793183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_68
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 439
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632046371df8cc24681edb7e6ac657e0
+      internalID: 1047131719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_69
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 439
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae6dcb627ee1b1448ba8b2e3d160cd7
+      internalID: -121824103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_70
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 439
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929c255e3f98cc549b5c84a7e65a99a6
+      internalID: 1835159877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_71
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 439
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536791f1306306d4886e400a3d9e7f0e
+      internalID: 559846857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_72
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 439
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de99b7798114a14a8b2702137170e9e
+      internalID: 1411586127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_73
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 439
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36534e259c1a8034a97c9554f5195223
+      internalID: -1573104093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_74
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 439
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de45a59bbd8fded40878f3ff087cbc22
+      internalID: 994245410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_75
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 439
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad649a980f43a5d4ab9574dacd677a3e
+      internalID: 740793884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_76
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 439
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b78770c7a6f1e4197837d79f6f0223
+      internalID: -627119515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_77
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 439
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472915cbd5d27884babade15e2712cfd
+      internalID: 13291224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_78
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 439
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5e83232b50b754dbb27f908fb4a0d5
+      internalID: 843558358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_79
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 439
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944ceaa610b3ab349ad843544d2d245d
+      internalID: 1683005949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 375
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ee54dc8c9bedb499766e2ce8af8548
+      internalID: -1316905087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_81
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 375
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725528aec9b100e43a7f878cb8a0f850
+      internalID: 559892531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_82
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 375
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe076be36b5e2246a7a584339b404c9
+      internalID: -128464426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_83
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 375
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed85c9de1cd528b469a606e3623de33a
+      internalID: 1339481807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_84
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 375
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4e390eac1d66245b99c2e002a8d37e
+      internalID: -1692115908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_85
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 375
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ecee8e426f8f864f8f70df5055fc997
+      internalID: -898925544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_86
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 375
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb8c15a0a1b9fd4db001e22646a5966
+      internalID: 61623125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_87
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 375
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959a852ed8d1cef458c646bfe7ed45cc
+      internalID: 1011119991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_88
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 375
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0827fb5f5c48774abb70426fe6c96c6
+      internalID: -1695656399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_89
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 375
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db14f2d116f84c4297963764d539c8c
+      internalID: 1860257268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_90
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 375
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4776c1c699935384dafc47f1e52421ff
+      internalID: 406878394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_91
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 375
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ea0d4c3ca10954f9ce52dbfe4e2ef0
+      internalID: 1613163674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_92
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 375
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee20668e45150046af8a0e3ab15f491
+      internalID: -527565789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_93
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 375
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3239699884a0144a97cbaf89bfc63bb
+      internalID: -341311966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_94
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 375
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856982f93d4e3564aa203e4082644d49
+      internalID: -2117730967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_95
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 375
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df7787fff6cb1b46bd47c1be16fc68c
+      internalID: 39552421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_96
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 375
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8121d43713f1e548a2af793d2a27fc3
+      internalID: 838714220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_97
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 375
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fdce941d61749d48b11e047ddf5f2f0
+      internalID: 1002370829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_98
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 375
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e86b6ca814ee1142ad24a468e1c39da
+      internalID: 1775470670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_99
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 375
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93edf67fb5572904b837e0dd856fa15c
+      internalID: -801280495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 311
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dba82a2337e0114e8202aec46c68ca5
+      internalID: -1009154901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_101
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 311
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9964ece4870f542accee1785b3f686
+      internalID: -1200337398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_102
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 311
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9857f90fc4eb52840a8ae5e3fc5650be
+      internalID: 917537102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_103
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 311
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9719e25721606574d97cb6669f6e5b74
+      internalID: -1418144345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_104
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 311
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c824d51dc3b142f4f8712e284ced4bf6
+      internalID: 1654865959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_105
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 311
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5668ddd7d3c9846a3b1d5189572949
+      internalID: 150128977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_106
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 311
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec440b6c793f534dad59acfee471d74
+      internalID: -261766237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_107
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 311
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c9a2394ab99754eae34d45eedb3042
+      internalID: 653325856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_108
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 311
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469998b886f92034bbb6195b729a82f5
+      internalID: 1843191340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_109
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 311
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc55b6c9d14a5b408a0d22283578f75
+      internalID: 1176761717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_110
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 311
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a7d5d65958a6e41bf6d0f685bba44a
+      internalID: -1466905322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_111
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 311
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47ff710be97a1d4ba18e3c025757569
+      internalID: -641872590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_112
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 311
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32fe8cb86c0a57645af8cddcd188ee08
+      internalID: 1919481493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_113
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 311
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b271c577c6698354694b3a58be1094ed
+      internalID: -1490453674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_114
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 311
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3db94f33d21554abc5ae168a1c31bb
+      internalID: 1439058868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_115
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 311
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174781886de843b4e944c8350ddd9a1c
+      internalID: -58753171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_116
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 311
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10fc03a216c7d294e983f8ec0bc0e601
+      internalID: -1220297654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_117
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 311
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8027c68789e004e9f2a9ecbea0b46e
+      internalID: 2054484497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_118
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 311
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7977fcb8faca63d478fc64b83dff61b2
+      internalID: -342840636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_119
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 311
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd404aa3dc7584d4d9d4093dda31eb1a
+      internalID: -2075657464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 247
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23d1090f01c3ff4ca4a694649fd9fb0
+      internalID: 464820356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_121
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 247
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a72a5da78721cb47aa6e6770c92b87f
+      internalID: 622626662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_122
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 247
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1ca413bd555784bbf589b33e519d6a
+      internalID: -860957690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_123
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 247
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d4ded3796521044b4db413aa2cf937
+      internalID: -231128403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_124
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 247
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52fefd4d5c0a9f24eb9f0fb3b080125a
+      internalID: -250541591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_125
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 247
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae70b46da8cc414881ffabc049b43e4
+      internalID: 1075712365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_126
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 247
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38dc45394fcb85b449b794db2b58e9e7
+      internalID: -1371978379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_127
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 247
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df81bda1618a17e40b836909e5f2286f
+      internalID: 1454976585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_128
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 247
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c188439b75663469add8f329c441cc
+      internalID: 536875693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_129
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 247
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a666bce2f01d24d47ae6f98e2a80e140
+      internalID: -1594737804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_130
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 247
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae9be8b88954d84faecf652940c1e98
+      internalID: 1684772877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_131
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 247
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92cc0105143b99048a704b103fa46864
+      internalID: 1285413007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_132
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 247
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c472cdf7f30f44fa66385723750b6e
+      internalID: -1355473513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_133
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 247
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4943b62a90a03d14b894311e949af722
+      internalID: -796887565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_134
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 247
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebac6ae6571b814e865edd43e9bd5ad
+      internalID: -889706841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_135
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 247
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68058c50d1d5d3a418c0bc24a31f1cef
+      internalID: -861580796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_136
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 247
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e2c3751477c7947a1018660bdc245c
+      internalID: -1999604746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_137
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 247
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23e7c794b7ea7147800c9c646d9b810
+      internalID: -1459790686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_138
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 247
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52dbf8326682ec42937b2179731a40c
+      internalID: 1657982518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_139
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 247
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6acd17c90df6cf45a6f22afecf0c043
+      internalID: 807715850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 183
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f530b126e057aaf4c885af86dade288b
+      internalID: -377058788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_141
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 183
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add0f8cdcc0b5c9489edcb4997c98961
+      internalID: -1855921857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_142
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 183
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f534a79764008741a496ebbfe32b71d
+      internalID: 755206742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_143
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 183
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45e3e5a77958c7499f890a3ae01b630
+      internalID: 10323193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_144
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 183
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175c1f93009e0f14f8e9a13a3b942215
+      internalID: -1924877651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_145
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 183
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d90b610be162114dab233d757481640
+      internalID: 2012612930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_146
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 183
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0544041ca8189d4cb28a0db20cb09e2
+      internalID: 734190609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_147
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 183
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a666f3041746642b0063fa44631b1a
+      internalID: 464293956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_148
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 183
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3894a8aaee3ab3e4182da74b1c943930
+      internalID: 795198821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_149
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 183
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2758fc475fac848a30b196f68bc832
+      internalID: -67246442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_150
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 183
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f90b083f86385647989719a074a4b3e
+      internalID: 1752916860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_151
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 183
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5aac1ec603ff3349815de250c082169
+      internalID: -1035307665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_152
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 183
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3c76f67d8f96a45902ea59b50bbb52
+      internalID: -523558066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_153
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 183
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497a3579c2bdc4d488f445e3afd1cd50
+      internalID: 615399930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_154
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 183
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814c6ecf2ed446143b8412c16be5b4be
+      internalID: 1297506587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_155
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 183
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412470a7fe2ed74439bb54fff92d0d5c
+      internalID: -1294474157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_156
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 183
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f8791bbf890b74abdbb4eea1ac1f99
+      internalID: -169103634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_157
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 183
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eabef9c02b707fc41a26ff8e840e0293
+      internalID: -592965383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_158
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 183
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3686ebd390758b4f8f6a5f230664d43
+      internalID: 1518998137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_159
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 183
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa790cfbd6af31f4dae1de6c621abe82
+      internalID: 643316208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 119
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e5bd28ca7323348b188609f6968c2c
+      internalID: 47857065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_161
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 119
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0076d9f9104ae4ba7c9dacb788904e
+      internalID: 1789093447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_162
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 119
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4155eb6c7a41be4a8b32f5ab55b60a6
+      internalID: 1440831364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_163
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 119
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11ac7a6201d6564d8d6fd8963fb120b
+      internalID: -853851246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_164
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 119
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869c420821e0f4e4b967de7ceb2fa8cf
+      internalID: -458978229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_165
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 119
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aff8e442b6b59e44852a1c162579952
+      internalID: 1851566296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_166
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 119
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c785f7a69391c994da6e3c81af18b312
+      internalID: -265549610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_167
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 119
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b85d3da3ad490478315defa30a231f
+      internalID: 312291594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_168
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 119
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664fb8fd6a2a4194eb02cd129a4b598a
+      internalID: -1860854793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_169
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 119
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903e28f1d4f275540a443de8b2c73d12
+      internalID: 1537017011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_170
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 119
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cccaf93d2552584489053efc99892c90
+      internalID: -1357785649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_171
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 119
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c437812a9f984a4b8170a5f09f2c3d0
+      internalID: 1280026072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_172
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 119
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361b712199ac0954693c480826e3a61a
+      internalID: 1438278578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_173
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 119
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef5f86a59bf4a54098e07b568fc1486
+      internalID: -443173743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_174
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 119
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56f0320d86705041afa97e8bc1dd2ab
+      internalID: -845034793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_175
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 119
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5929a528576d9e6449f8e7de7c238edb
+      internalID: 1607162183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_176
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 119
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c959ffe8865604347898a6c8854cb97b
+      internalID: -1472413361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_177
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 119
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f9b63c1de85b540ae94b57412c7a39
+      internalID: 1576936500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_178
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 119
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c61fb7e5f500146a82c60f9a670314
+      internalID: -2098355748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_179
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 119
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de78655b6ea03c04b9b879ff5c1e4a18
+      internalID: 497138077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 55
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f2ee66a97e80c41997c615d54fb400
+      internalID: -1735622869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_181
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 55
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64813642c4dd60429964a1b9a54723e
+      internalID: 700879223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_182
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 55
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443db834d2ce8d448907097c9ab9d1a3
+      internalID: -1213035824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_183
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 55
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b948773f9c8cbea4093c3b3be74790f3
+      internalID: 102130888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_184
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 55
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9906df4c952cc9c4ab3210e53e544a03
+      internalID: -243470019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_185
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 55
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120adb25da3400b4892eaed676a4d545
+      internalID: 587023199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_186
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 55
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd56a1c3fa1de404ea0e3b5c1d880314
+      internalID: -503928405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_187
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 55
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4c9bc82ed1aae45a4b083f844d4e93
+      internalID: 680534653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_188
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 55
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92090016a4bdc8c4bbc75a84478222a8
+      internalID: 802334268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_189
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 55
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b237d700ae72a64092bab2b9639b336
+      internalID: 1284588545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_190
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 55
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a07240a4f8c5741b19e4ebe82d9544
+      internalID: 1321829424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_191
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 55
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afea73cb0e0c6174283859498f64ff36
+      internalID: -1780197008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_192
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 55
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb84e1dfbb314945958f1f3eb2a64b4
+      internalID: 405157665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_193
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 55
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47624171abf584943b52baf2b04c1e81
+      internalID: -2050745478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_194
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 55
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df53467687bcd4449495ed4fc89c5e6
+      internalID: 201456182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_195
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 55
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef2756549f9dee438bd117c633dc64c
+      internalID: 2139402279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_196
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 55
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85474f9bc15d49546971a4ad8552cab1
+      internalID: -2037657150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_197
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 55
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53852e3d853507f4bb38243500d58194
+      internalID: 1419043734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_198
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 55
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f65bc82dd068944298fb144a733ff2b
+      internalID: 1604359839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asphalt_2_199
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 55
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85178924cd1822145830b7b32d36b966
+      internalID: -1810111793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 11a9cb93554436c4d963d697dfded34a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      asphalt_2_7: 139969487
+      asphalt_2_149: -67246442
+      asphalt_2_3: -137501869
+      asphalt_2_129: -1594737804
+      asphalt_2_41: -1716501276
+      asphalt_2_55: 836374389
+      asphalt_2_190: 1321829424
+      asphalt_2_77: 13291224
+      asphalt_2_18: -1020087759
+      asphalt_2_154: 1297506587
+      asphalt_2_157: -592965383
+      asphalt_2_56: 379550416
+      asphalt_2_32: -374730740
+      asphalt_2_33: -1547570975
+      asphalt_2_4: -1840263998
+      asphalt_2_178: -2098355748
+      asphalt_2_135: -861580796
+      asphalt_2_20: 1733089604
+      asphalt_2_142: 755206742
+      asphalt_2_110: -1466905322
+      asphalt_2_164: -458978229
+      asphalt_2_150: 1752916860
+      asphalt_2_13: -2112773519
+      asphalt_2_197: 1419043734
+      asphalt_2_6: -1724013262
+      asphalt_2_35: -1453184640
+      asphalt_2_52: 642398734
+      asphalt_2_79: 1683005949
+      asphalt_2_136: -1999604746
+      asphalt_2_47: 893978009
+      asphalt_2_132: -1355473513
+      asphalt_2_72: 1411586127
+      asphalt_2_93: -341311966
+      asphalt_2_189: 1284588545
+      asphalt_2_43: -1397850210
+      asphalt_2_66: 1353791839
+      asphalt_2_143: 10323193
+      asphalt_2_74: 994245410
+      asphalt_2_46: -1758825388
+      asphalt_2_159: 643316208
+      asphalt_2_36: -398446914
+      asphalt_2_176: -1472413361
+      asphalt_2_168: -1860854793
+      asphalt_2_147: 464293956
+      asphalt_2_122: -860957690
+      asphalt_2_172: 1438278578
+      asphalt_2_102: 917537102
+      asphalt_2_80: -1316905087
+      asphalt_2_114: 1439058868
+      asphalt_2_161: 1789093447
+      asphalt_2_83: 1339481807
+      asphalt_2_62: 1282812647
+      asphalt_2_106: -261766237
+      asphalt_2_137: -1459790686
+      asphalt_2_126: -1371978379
+      asphalt_2_21: 535715480
+      asphalt_2_94: -2117730967
+      asphalt_2_86: 61623125
+      asphalt_2_64: 1595701507
+      asphalt_2_89: 1860257268
+      asphalt_2_15: -1375441604
+      asphalt_2_10: 857058887
+      asphalt_2_130: 1684772877
+      asphalt_2_179: 497138077
+      asphalt_2_139: 807715850
+      asphalt_2_198: 1604359839
+      asphalt_2_69: -121824103
+      asphalt_2_118: -342840636
+      asphalt_2_165: 1851566296
+      asphalt_2_88: -1695656399
+      asphalt_2_125: 1075712365
+      asphalt_2_26: -1810849175
+      asphalt_2_100: -1009154901
+      asphalt_2_57: 408927712
+      asphalt_2_50: 298268305
+      asphalt_2_60: 1573838594
+      asphalt_2_51: 1536842035
+      asphalt_2_196: -2037657150
+      asphalt_2_63: -122901382
+      asphalt_2_188: 802334268
+      asphalt_2_199: -1810111793
+      asphalt_2_184: -243470019
+      asphalt_2_22: -1423613975
+      asphalt_2_119: -2075657464
+      asphalt_2_53: -1866788600
+      asphalt_2_166: -265549610
+      asphalt_2_180: -1735622869
+      asphalt_2_183: 102130888
+      asphalt_2_91: 1613163674
+      asphalt_2_31: -1843624084
+      asphalt_2_14: 628265113
+      asphalt_2_37: -1777887844
+      asphalt_2_11: 691576360
+      asphalt_2_87: 1011119991
+      asphalt_2_97: 1002370829
+      asphalt_2_61: 1204040055
+      asphalt_2_38: -1535624575
+      asphalt_2_155: -1294474157
+      asphalt_2_170: -1357785649
+      asphalt_2_48: -87741526
+      asphalt_2_174: -845034793
+      asphalt_2_156: -169103634
+      asphalt_2_70: 1835159877
+      asphalt_2_117: 2054484497
+      asphalt_2_131: 1285413007
+      asphalt_2_194: 201456182
+      asphalt_2_92: -527565789
+      asphalt_2_175: 1607162183
+      asphalt_2_116: -1220297654
+      asphalt_2_140: -377058788
+      asphalt_2_2: -1702392415
+      asphalt_2_146: 734190609
+      asphalt_2_145: 2012612930
+      asphalt_2_54: 546348316
+      asphalt_2_73: -1573104093
+      asphalt_2_152: -523558066
+      asphalt_2_113: -1490453674
+      asphalt_2_112: 1919481493
+      asphalt_2_163: -853851246
+      asphalt_2_24: -1410311736
+      asphalt_2_28: 1761664540
+      asphalt_2_107: 653325856
+      asphalt_2_17: 1247217238
+      asphalt_2_101: -1200337398
+      asphalt_2_141: -1855921857
+      asphalt_2_115: -58753171
+      asphalt_2_42: 1699404226
+      asphalt_2_82: -128464426
+      asphalt_2_160: 47857065
+      asphalt_2_186: -503928405
+      asphalt_2_76: -627119515
+      asphalt_2_5: 776016351
+      asphalt_2_173: -443173743
+      asphalt_2_109: 1176761717
+      asphalt_2_49: -1845226981
+      asphalt_2_71: 559846857
+      asphalt_2_124: -250541591
+      asphalt_2_171: 1280026072
+      asphalt_2_96: 838714220
+      asphalt_2_177: 1576936500
+      asphalt_2_27: -503616088
+      asphalt_2_187: 680534653
+      asphalt_2_108: 1843191340
+      asphalt_2_16: 1978785089
+      asphalt_2_153: 615399930
+      asphalt_2_30: 736326084
+      asphalt_2_67: 302793183
+      asphalt_2_151: -1035307665
+      asphalt_2_158: 1518998137
+      asphalt_2_85: -898925544
+      asphalt_2_133: -796887565
+      asphalt_2_191: -1780197008
+      asphalt_2_90: 406878394
+      asphalt_2_193: -2050745478
+      asphalt_2_34: -1269538031
+      asphalt_2_19: -1481766050
+      asphalt_2_121: 622626662
+      asphalt_2_128: 536875693
+      asphalt_2_167: 312291594
+      asphalt_2_29: 1306713550
+      asphalt_2_105: 150128977
+      asphalt_2_59: 726742468
+      asphalt_2_0: -1889699704
+      asphalt_2_103: -1418144345
+      asphalt_2_182: -1213035824
+      asphalt_2_138: 1657982518
+      asphalt_2_120: 464820356
+      asphalt_2_195: 2139402279
+      asphalt_2_127: 1454976585
+      asphalt_2_75: 740793884
+      asphalt_2_81: 559892531
+      asphalt_2_123: -231128403
+      asphalt_2_162: 1440831364
+      asphalt_2_65: 1188854100
+      asphalt_2_23: -1472942657
+      asphalt_2_169: 1537017011
+      asphalt_2_25: 862415915
+      asphalt_2_40: -1324214756
+      asphalt_2_98: 1775470670
+      asphalt_2_144: -1924877651
+      asphalt_2_12: -1898972988
+      asphalt_2_148: 795198821
+      asphalt_2_9: 1069492401
+      asphalt_2_68: 1047131719
+      asphalt_2_104: 1654865959
+      asphalt_2_185: 587023199
+      asphalt_2_58: 2033303560
+      asphalt_2_84: -1692115908
+      asphalt_2_39: -2138747028
+      asphalt_2_1: -1596693156
+      asphalt_2_8: 1510318112
+      asphalt_2_192: 405157665
+      asphalt_2_99: -801280495
+      asphalt_2_111: -641872590
+      asphalt_2_78: 843558358
+      asphalt_2_134: -889706841
+      asphalt_2_95: 39552421
+      asphalt_2_181: 700879223
+      asphalt_2_45: 1365467675
+      asphalt_2_44: -1459952805
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
